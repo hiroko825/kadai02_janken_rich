@@ -1,0 +1,43 @@
+body {
+  font-family: "Arial", "メイリオ";
+  font-size: larger;
+  background-color: whitesmoke;
+}
+.container {
+    font-size: 50px;
+    color: green;
+  text-align: center;
+  margin: 0 auto;
+}
+.button {
+  text-align: center;
+  margin: 0 auto;
+}
+button {
+  font-size: 100px;
+  font-weight: bold;
+  display: inline-block;
+  background: black;
+  color: #ffffff;
+  width: 500px;
+  height: 500px;
+  border: double 4px whitesmoke;
+  border-radius: 50%;
+  text-align: center;
+  overflow: hidden;
+  cursor: pointer;
+}
+button:hover {
+  background: green;
+}
+.output {
+  margin-top: 100px;
+  font-size: 100px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 3px #c0c0c0;
+}
+.irasutoya {
+  text-align: center;
+  margin: 0 auto;
+}
